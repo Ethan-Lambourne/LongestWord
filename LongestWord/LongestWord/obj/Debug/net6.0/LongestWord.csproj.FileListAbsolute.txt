@@ -1,0 +1,14 @@
+C:\dev\LongestWord\LongestWord\bin\Debug\net6.0\LongestWord.exe
+C:\dev\LongestWord\LongestWord\bin\Debug\net6.0\LongestWord.deps.json
+C:\dev\LongestWord\LongestWord\bin\Debug\net6.0\LongestWord.runtimeconfig.json
+C:\dev\LongestWord\LongestWord\bin\Debug\net6.0\LongestWord.dll
+C:\dev\LongestWord\LongestWord\bin\Debug\net6.0\LongestWord.pdb
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.AssemblyInfoInputs.cache
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.AssemblyInfo.cs
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.csproj.CoreCompileInputs.cache
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.dll
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\refint\LongestWord.dll
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.pdb
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\LongestWord.genruntimeconfig.cache
+C:\dev\LongestWord\LongestWord\obj\Debug\net6.0\ref\LongestWord.dll
